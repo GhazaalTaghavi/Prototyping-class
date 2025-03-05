@@ -1,4 +1,3 @@
-readme_content = """# 📰 News Categorization App - Streamlit Prototype
 
 ## Project Overview
 This project is an **interactive news categorization application** built with **Streamlit** and **Machine Learning (NLP)**.  
